@@ -1,4 +1,4 @@
-# securitygamewithinformants
+# Security Games with Informants
 
 This is the repo for 'When to Follow the Tip: Security Games with Strategic Informants' (IJCAI-PRICAI 2020).
 
