@@ -12,6 +12,10 @@ pandas
 matplotlib
 seaborn
 pickle
+shutil
+pathlib
+easydict
+scipy
  ```
 
 ## Code Usage
